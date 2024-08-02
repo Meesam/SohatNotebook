@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SohatNotebook.Api", "SohatN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SohatNotebook.DataService", "SohatNotebook.DataService\SohatNotebook.DataService.csproj", "{1B5CBD17-D297-41EA-9241-7ECC220BF496}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SohatNotebook.Entities", "SohatNotebook.Entities\SohatNotebook.Entities.csproj", "{C4DF02CB-B49C-44D8-B468-B65FF7C669FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1B5CBD17-D297-41EA-9241-7ECC220BF496}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B5CBD17-D297-41EA-9241-7ECC220BF496}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B5CBD17-D297-41EA-9241-7ECC220BF496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4DF02CB-B49C-44D8-B468-B65FF7C669FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4DF02CB-B49C-44D8-B468-B65FF7C669FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4DF02CB-B49C-44D8-B468-B65FF7C669FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4DF02CB-B49C-44D8-B468-B65FF7C669FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
